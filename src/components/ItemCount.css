@@ -1,0 +1,17 @@
+.general {
+    border: solid 1px black;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    border-radius: 2px;
+}
+
+.botones{
+width: 92px;
+margin-bottom: 30px;
+}
+
+.botonagregar{
+    width: 200px;
+}
+
